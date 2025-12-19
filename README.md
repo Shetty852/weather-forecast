@@ -190,13 +190,10 @@ Invalid date:
 ```json
 { "error": true, "message": "Invalid date format (use YYYY-MM-DD)" }
 ```
-
-## Demo Video
-[Demo Video](https://drive.google.com/file/d/1batxtUkie57KHrJ3pc9SZ_lD8twMP0a4/view?usp=drive_link)
-
 ## References
 - https://open-meteo.com/
 - https://sequelize.org/
 - https://react.dev/
 
 - https://vitejs.dev/
+
