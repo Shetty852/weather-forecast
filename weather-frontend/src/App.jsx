@@ -6,7 +6,7 @@ import Forecast from './pages/Forecast';
 import Favorites from './pages/Favorites';
 import Locations from './pages/Locations';
 import { FavoritesProvider } from './context/FavoritesContext';
-import './components/Layout.css';
+import './components/layout.css';
 
 export default function App() {
   return (
